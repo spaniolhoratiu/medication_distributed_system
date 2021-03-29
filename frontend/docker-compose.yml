@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+
+  react:
+    image: ds2020_spaniolhoratiu_assignment2_front
+    ports:
+       - "80:80"
